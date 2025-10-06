@@ -2,7 +2,7 @@
 
 $ErrorActionPreference = 'Stop'
 
-$TARGET_BRANCH = "feature/tsondb-integration"
+$TARGET_BRANCH = "develop-V2"
 $TARGET_FOLDER = "./optolith-db"
 
 function printNotice {

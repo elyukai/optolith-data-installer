@@ -2,7 +2,7 @@
 
 set -eo pipefail
 
-TARGET_BRANCH="feature/tsondb-integration"
+TARGET_BRANCH="develop-V2"
 TARGET_FOLDER="./optolith-db"
 
 printNotice() {
